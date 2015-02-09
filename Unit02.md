@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO101L: Introduction to Molecular and Cellular Biology Lab"
+course_description: "An introductory course that uses various activities and exercises to provide the basic principles and methods of biology. Lab topics include: the scientific method, DNA structure, transcription and translation, PCR and microarrays, prokaryotic and eukaryotic cells, photosynthesis, glycolysis and cellular respiration, genetics, and cell division."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Basic Molecules** <span id="2"></span> 
 *In this section, we will focus on understanding how the chemical
 properties of water, macromolecules, and DNA play a role in their

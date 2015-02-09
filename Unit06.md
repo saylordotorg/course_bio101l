@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO101L: Introduction to Molecular and Cellular Biology Lab"
+course_description: "An introductory course that uses various activities and exercises to provide the basic principles and methods of biology. Lab topics include: the scientific method, DNA structure, transcription and translation, PCR and microarrays, prokaryotic and eukaryotic cells, photosynthesis, glycolysis and cellular respiration, genetics, and cell division."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Cellular Metabolism** <span id="6"></span> 
 *Cellular metabolism consists of glycolysis and cellular respiration. 
 Our activities in this unit will focus on understanding the process of

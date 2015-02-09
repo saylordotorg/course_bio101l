@@ -1,4 +1,12 @@
-**Unit 4: Photosynthesis** <span id="4"></span> 
+---
+layout: default
+title: "BIO101L: Introduction to Molecular and Cellular Biology Lab"
+course_description: "An introductory course that uses various activities and exercises to provide the basic principles and methods of biology. Lab topics include: the scientific method, DNA structure, transcription and translation, PCR and microarrays, prokaryotic and eukaryotic cells, photosynthesis, glycolysis and cellular respiration, genetics, and cell division."
+next: ../Unit05
+previous: ../Unit03
+---
+**
+Unit 4: Photosynthesis** <span id="4"></span> 
 *Photosynthesis is the process that allows plant cells to “create”
 energy for themselves, to continue to exist, and to grow.  The
 activities below will focus on understanding both the overall effects
