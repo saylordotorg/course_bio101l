@@ -105,4 +105,13 @@ these time advisories and to determine how much time you have over the
 next few weeks to complete each unit, and then to set goals for
 yourself.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/bio101l/Unit01/)
+- [Unit 2](https://legacy.saylor.org/bio101l/Unit02/)
+- [Unit 3](https://legacy.saylor.org/bio101l/Unit03/)
+- [Unit 4](https://legacy.saylor.org/bio101l/Unit04/)
+- [Unit 5](https://legacy.saylor.org/bio101l/Unit05/)
+- [Unit 6](https://legacy.saylor.org/bio101l/Unit06/)
+- [Unit 7](https://legacy.saylor.org/bio101l/Unit07/)
+- [Unit 8](https://legacy.saylor.org/bio101l/Unit08/)
