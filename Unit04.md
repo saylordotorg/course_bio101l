@@ -55,11 +55,11 @@ Upon successful completion of this unit, the student will be able to:
     Photosynthesis Increase Crop Yields?”**
     Link: Plant, Cell, and Environment: USDA’s [“Can Improvement in
     Photosynthesis Increase Crop
-    Yields?”](http://www.saylor.org/site/wp-content/uploads/2011/06/BIO101-lab-4-article.pdf) (PDF)  
+    Yields?”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/BIO101-lab-4-article.pdf) (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO101-lab-4-article-Long-et-al.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO101-lab-4-article-Long-et-al.epub)  
       
      Instructions:  Please click the link for this article on the web
     page to access the PDF.  Please read the entire article and take
@@ -76,7 +76,7 @@ Upon successful completion of this unit, the student will be able to:
         
      When you are done, check your work against the Saylor Foundation’s
     “[Answer Guide
-    4](http://www.saylor.org/site/wp-content/uploads/2011/05/BIO101LAB-AG4-FINAL.pdf).”
+    4](https://resources.saylor.org/archived/wp-content/uploads/2011/05/BIO101LAB-AG4-FINAL.pdf).”
     (PDF)  
         
      Terms of Use: This material is part of the public domain. 

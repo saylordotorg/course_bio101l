@@ -22,7 +22,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Hartnell College: Dr. Katherine Harris’s “Scientific
     Method Tutorial”**
     Link: Hartnell College: Dr. Katherine Harris’s “[Scientific Method
-    Tutorial](http://www.saylor.org/site/wp-content/uploads/2013/01/Scientific-Method-Tutorial.pdf)”
+    Tutorial](https://resources.saylor.org/archived/wp-content/uploads/2013/01/Scientific-Method-Tutorial.pdf)”
     (PDF) and [Flash
     Animation](http://www.saylor.org/content/general/ScientificMethod.swf)
     (HTML)  
@@ -41,9 +41,9 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: The Biology Corner’s “Identify the Controls and
     Variables” and “Scientific Method in Action”**
     Link: The Biology Corner’s [“Identify the Controls and
-    Variables”](http://www.saylor.org/site/wp-content/uploads/2011/06/BIO101-lab-1-2nd.pdf) (PDF)
+    Variables”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/BIO101-lab-1-2nd.pdf) (PDF)
     and [“Scientific Method in
-    Action”](http://www.saylor.org/site/wp-content/uploads/2011/06/BIO101lab-1-3rd.pdf)
+    Action”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/BIO101lab-1-3rd.pdf)
     (PDF)  
         
      Instructions: Please use these links to critique and practice
@@ -51,7 +51,7 @@ Upon successful completion of this unit, the student will be able to:
     questions listed in both linked pages; please answer these on your
     own and, when you are done, check your work against the solutions
     provided in The Saylor Foundation’s “[Answer Guide
-    1](http://www.saylor.org/site/wp-content/uploads/2011/05/BIO101LAB-AG1-FINAL.pdf).”
+    1](https://resources.saylor.org/archived/wp-content/uploads/2011/05/BIO101LAB-AG1-FINAL.pdf).”
     (PDF)  
         
      Terms of Use: The linked material above has been reposted by the
@@ -67,7 +67,7 @@ Upon successful completion of this unit, the student will be able to:
     Field Guide to Critical Thinking”**
     Link: The Committee for Skeptical Inquiry: James Lett’s [“A Field
     Guide to Critical
-    Thinking”](http://www.saylor.org/site/wp-content/uploads/2011/06/BIO101-lab-1-4th.pdf) (PDF)  
+    Thinking”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/BIO101-lab-1-4th.pdf) (PDF)  
         
      Instructions: Read the linked article for a breakdown of the
     important components of scientific critical thinking.  Remember to
