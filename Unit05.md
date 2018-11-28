@@ -50,7 +50,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Kimball’s Biology Pages: “The Genetic Code”**
     Link: Kimball’s Biology Pages: [“The Genetic
-    Code”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/BIO101lab-5.pdf) (PDF)  
+    Code”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/BIO101lab-5.pdf) (PDF)  
         
      Instructions: This reading is optional; you may read this page for
     further information about translation and transcription.  This page
@@ -153,7 +153,7 @@ Upon successful completion of this unit, the student will be able to:
      How would you determine which protein a strand of DNA codes for?  
         
      Check your answer against the Saylor Foundation’s “[Answer Guide
-    5](https://resources.saylor.org/archived/wp-content/uploads/2011/05/BIO101LAB-AG5-FINAL.pdf).”
+    5](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/BIO101LAB-AG5-FINAL.pdf).”
     (PDF)  
         
      Terms of Use: Please respect the copyright and terms of use

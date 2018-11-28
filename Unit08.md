@@ -93,7 +93,7 @@ Upon successful completion of this unit, the student will be able to:
      2)    When might doing this be practically useful?  
         
      Check your answers against the Saylor Foundation’s “[Answer Guide
-    8](https://resources.saylor.org/archived/wp-content/uploads/2011/05/BIO101LAB-AG8-FINAL.pdf).”
+    8](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/BIO101LAB-AG8-FINAL.pdf).”
     (PDF)  
         
      Terms of Use: Please respect the copyright and terms of use

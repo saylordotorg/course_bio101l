@@ -42,7 +42,7 @@ Upon successful completion of this unit, the student will be able to:
     purpose?  
         
      Check your answers against the Saylor Foundation’s “[Answer Guide
-    7](https://resources.saylor.org/archived/wp-content/uploads/2011/05/BIO101LAB-AG7-FINAL.pdf).”
+    7](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/BIO101LAB-AG7-FINAL.pdf).”
     (PDF)  
         
      Terms of Use: Please respect the copyright and terms of use
