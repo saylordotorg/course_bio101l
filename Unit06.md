@@ -23,7 +23,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia’s “Cellular Respiration”**
     Link: Wikipedia’s Article on “[Cellular
-    Respiration](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Cellular-respiration-.pdf)” (PDF)  
+    Respiration](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/Cellular-respiration-.pdf)” (PDF)  
         
      Instructions:  Please read this page to refresh your memory
     regarding the cellular respiration process, which you learned about
@@ -55,7 +55,7 @@ Upon successful completion of this unit, the student will be able to:
      2)    Why might it be beneficial in some situations to do so?  
         
      Check your answers against the Saylor Foundation’s “[Answer Guide
-    6](https://resources.saylor.org/archived/wp-content/uploads/2011/05/BIO101LAB-AG6-FINAL.pdf).”
+    6](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/BIO101LAB-AG6-FINAL.pdf).”
     (PDF)  
         
      Terms of Use: The linked material above has been reposted by the
